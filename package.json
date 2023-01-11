@@ -15,6 +15,9 @@
     "ci": "yarn format && tsc && yarn lint",
     "test-prod": "yarn run build && yarn run serve"
   },
+  "engines": {
+    "node": "16.18.1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sgolovine/gistmarks.git"
