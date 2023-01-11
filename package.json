@@ -28,7 +28,7 @@
   "bugs": {
     "url": "https://github.com/sgolovine/gistmarks/issues"
   },
-  "homepage": "https://github.com/sgolovine/gistmarks#readme",
+  "homepage": "https://gist4mark.vercel.app/",
   "dependencies": {
     "@datapunt/matomo-tracker-react": "^0.4.0",
     "@material-ui/core": "^4.11.3",
